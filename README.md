@@ -8,6 +8,8 @@ It basically has a the same features as "Gallery_shell" but unlike gallery_shell
 
 It also improves the design of the generated HTML.
 
-  
+Before using you need to install : 
+
+sudo apt install imagemagick jhead ffmpeg
  
 
