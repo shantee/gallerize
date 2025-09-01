@@ -115,7 +115,7 @@ cat > "$MY_INDEX_HTML_FILE" << EOF
       content:'▶';
       position:absolute; inset:50% auto auto 50%;
       transform:translate(-50%,-50%);
-      font-size:3rem; line-height:1;
+      font-size:2.5rem;
       color:#fff; text-shadow:0 2px 8px rgba(0,0,0,.6);
       background:rgba(0,0,0,.35); padding:.2rem .6rem; border-radius:.5rem;
       pointer-events:none;
